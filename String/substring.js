@@ -20,48 +20,49 @@
 
 //todo =====================================================
 
-var anyString = 'Mozilla'
+// var anyString = 'Mozilla'
 
 // Mostra "Moz"
-console.log(anyString.substring(0, 3))
-console.log(anyString.substring(3, 0))
+// console.log(anyString.substring(0, 3))
+// console.log(anyString.substring(3, 0))
 
 // Mostra "lla"
-console.log(anyString.substring(4, 7))
-console.log(anyString.substring(7, 4))
+// console.log(anyString.substring(4, 7))
+// console.log(anyString.substring(7, 4))
 
 // Mostra "Mozill"
-console.log(anyString.substring(0, 6))
+// console.log(anyString.substring(0, 6))
 
 // Mostra "Mozilla"
-console.log(anyString.substring(0, 7))
-console.log(anyString.substring(0, 10))
+// console.log(anyString.substring(0, 7))
+// console.log(anyString.substring(0, 10))
 
 //todo =====================================================
-console.log('==============================================')
+// console.log('==============================================')
 //todo =====================================================
 
 // Mostra 'illa', os últimos 4 caracteres
-let anyString1 = 'Mozilla'
-let anyString4 = anyString1.substring(anyString1.length - 4)
-console.log(anyString4)
+// let anyString1 = 'Mozilla'
+// let anyString4 = anyString1.substring(anyString1.length - 4)
+// console.log(anyString4)
 
 // Mostra 'zilla', os últimos 5 caracteres
-let anyString2 = 'Mozilla'
-let anyString5 = anyString2.substring(anyString2.length - 5)
-console.log(anyString5)
+// let anyString2 = 'Mozilla'
+// let anyString5 = anyString2.substring(anyString2.length - 5)
+// console.log(anyString5)
 
 //todo =====================================================
-console.log('==============================================')
+// console.log('==============================================')
 //todo =====================================================
 
-let text = 'Mozilla'
-console.log(text.substring(2, 5)) // retorna "zil"
-console.log(text.substring(2, 5) + ' novo texto...') // retorna "zil novo texto..."
+// let text = 'Mozilla'
+// console.log(text.substring(2, 5)) // retorna "zil"
+// console.log(text.substring(2, 5) + ' novo texto...') // retorna "zil novo texto..."
+// console.log(text.substring() + '...')
 
 //todo =====================================================
-console.log('==============================================')
+// console.log('==============================================')
 //todo =====================================================
 
-console.log(text.substring(-5, 2)) // retorna "Mo"
-console.log(text.substring(-5, -2)) // retorna ""
+// console.log(text.substring(-5, 2)) // retorna "Mo"
+// console.log(text.substring(-5, -2)) // retorna ""

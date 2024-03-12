@@ -7,6 +7,7 @@
 
 const map1 = new Map();
 map1.set('bar', 'foo');
+//? sintaxe  chave e valor
 
 console.log(map1.delete('bar'));
 //! true

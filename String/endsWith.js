@@ -3,6 +3,7 @@
 //? retornando true ou false.
 
 //? case-sensitive
+//? Faz diferença de maiusculo e minusculo
 
 // Sintaxe
 // str.endsWith(stringSendoBuscada[, tamanho])

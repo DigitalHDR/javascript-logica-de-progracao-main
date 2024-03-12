@@ -39,13 +39,12 @@
 //! { exemplo: 'exemplo' }
 //* ESSE EXEMOLO É COMO SE FOSSE ASSIM
 
-//* CONST OBJ = {
-//*     EXEMPLO: 'EXEMPLO', THISBINDEXEMPLO: FUNCTION() {
-//*         CONSOLE.LOG(THIS)
-//*    }
-//* }
-
-
+// const obj = {
+//   exemplo: 'EXEMPLO',
+//   thisBindExemplo: function () {
+//     console.log(this)
+//   },
+// }
 
 //todo ======= EXEMPLO 2 ==== THIS GLOBAL ===============================
 // function thisBindExemplo() {
@@ -60,7 +59,7 @@
 
 // thisBindExemplo()
 
-{
+// {
   /* <ref *1> Object [global] {
   global: [Circular *1],
   clearInterval: [Function: clearInterval],

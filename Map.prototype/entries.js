@@ -21,6 +21,8 @@
 //todo =====================================================
 const myMap = new Map()
 myMap.set('0', 'foo')
+//? sintaxe  chave e valor
+
 myMap.set(1, 'bar')
 myMap.set({}, 'baz')
 

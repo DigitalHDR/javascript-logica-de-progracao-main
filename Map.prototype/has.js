@@ -7,9 +7,12 @@
 
 const map1 = new Map()
 map1.set('bar', 'foo')
+// chave e valor
 
 console.log(map1.has('bar'))
+// chave e valor
 //! true
 
 console.log(map1.has('baz'))
+// chave e valor
 //! false

@@ -52,10 +52,10 @@
 
 //todo =====================================================
 
-var str = 'Twas the night before Xmas...'
-var newstr = str.replace(/xmas/i, 'Christmas')
-console.log(newstr)
-//! retorna "Twas the night before Christmas..."
+// var str = 'Apenas uma frase de exemplo...'
+// var newstr = str.replace(/frase/i, 'texto')
+// console.log(newstr)
+//! Apenas uma texto de exemplo..."
 
 //todo =====================================================
 
@@ -65,10 +65,10 @@ console.log(newstr)
 // e ignore que permitem a função replace() substituir cada "maçãs"
 // por "laranjas" na string.
 
-var re = /maçãs/gi
-var str = 'As maçãs são redondas. As maçãs são suculentas.'
-var newstr = str.replace(re, 'laranjas')
-console.log(newstr)
+// var re = /maçãs/gi
+// var str = 'As maçãs são redondas. As maçãs são suculentas.'
+// var newstr = str.replace(re, 'laranjas')
+// console.log(newstr)
 
 //! retorna
 //! "As laranjas são redondas. As laranjas são suculentas."

@@ -1,5 +1,5 @@
-//? A sizepropriedade accessor retorna
-//? o número de elementos em um Mapobjeto.
+//? A size propriedade accessor retorna
+//? o número de elementos em um Map objeto.
 
 // const map1 = new Map()
 

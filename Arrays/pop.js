@@ -8,7 +8,7 @@
 //* %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 //*     | Removendo o último elemento de um array |
 //* %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-var meuPeixe = ['acara-bandeira', 'palhaco', 'mandarim', 'esturjao']
+// var meuPeixe = ['acara-bandeira', 'palhaco', 'mandarim', 'esturjao']
 // console.log(meuPeixe)
 // //! (4) ['acara-bandeira', 'palhaco', 'mandarim', 'esturjao']
 

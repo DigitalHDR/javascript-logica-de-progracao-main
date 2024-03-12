@@ -22,7 +22,7 @@
 
 //todo =====================================================
 function logMapElements(value, key, map) {
-  console.log(`m[${key}] = ${value}`)
+  console.log(`esse é o KEY(${key}) = (esse é o VALOR(${value})`)
 }
 
 new Map([
@@ -30,6 +30,7 @@ new Map([
   ['bar', {}],
   ['baz', undefined],
 ]).forEach(logMapElements)
+//? sintaxe  chave e valor
 
 //! m[foo] = 3
 //! m[bar] = [object Object]

@@ -28,9 +28,9 @@
 //*   Indice de inicio do paramertro Perceba que o numero
 //*   0 começa do indice 2 do array |
 //* %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-// const array = [1,1,1,1,1,1,1,1,1]
-// array.fill(0, 2, 5)
-// console.log(array)
+const array = [1,1,1,1,1,1,1,1,1]
+array.fill(0, 2, 5)
+console.log(array)
 //! (9) [1, 1, 0, 0, 0, 1, 1, 1, 1]
 // Indice de final de parametro Perceba que colocando para começar no
 // indice 5 e ele vai somente até o 4 indice, sendo sempre um a menos
